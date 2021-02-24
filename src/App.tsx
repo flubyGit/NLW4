@@ -1,5 +1,9 @@
+import { ExperienceBar } from "./components/ExperienceBar";
 
 export default function App() {
-  return <h1>Hello NLW</h1>
-  
+  return (
+    <div className="container">
+      <ExperienceBar />
+    </div>
+  )
 }
