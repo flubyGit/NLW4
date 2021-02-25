@@ -1,6 +1,0 @@
-node_modules
-dist
-.lock
-.log
-.env
-.git
