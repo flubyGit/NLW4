@@ -15,3 +15,21 @@
   gap: 6.25rem;
   align-content: center;
 }
+@media (min-width: 200px) and (max-width: 499px) {
+  .container {
+    padding: 1rem;
+  }
+  .container section {
+    display: block;
+    margin: 2rem;
+  }
+}
+@media (min-width: 500px) and (max-width: 768px) {
+  .container {
+    padding: 3.5rem 2rem;
+  }
+  .container section {
+    display: block;
+    margin: 2rem;
+  }
+}
