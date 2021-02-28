@@ -16,7 +16,7 @@ export function Countdown(): JSX.Element {
   const [secondLeft, secondRight] = String(seconds).padStart(2, "0").split("");
 
   return (
-    <div>
+    <div className={styles.firstDiv}>
       <div className={styles.countdownContainer}>
         <div>
           <span>{minuteLeft}</span>
