@@ -1,34 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br />
 
-## Getting Started
+# Next Level Week #4 - move.it
+![Screenshot from 2021-02-28 19-14-14](https://user-images.githubusercontent.com/49297012/109435426-305ab280-79f9-11eb-82c4-ae5ceda4d8ea.png)
 
-First, run the development server:
+## :checkered_flag: Índice
 
-```bash
-npm run dev
-# or
-yarn dev
+* [Sobre](#bulb-sobre)
+* [Demo](#iphone-demo)
+  * [Deploy](#live)
+  * [Web](#web)
+  * [Mobile](#mobile)
+* [Tecnologias](#computer-tecnologias)
+* [Como utilizar](#wrench-como-utilizar)
+* [Contatos](#mailbox_with_no_mail-contatos)
+
+## :bulb: Sobre
+O move.it é uma plataforma para profissionais que tem contato com o seu dia a dia no computador e celular afins de exercitar o seu corpo, mente e olhos.
+<br>
+Aplicação construída durante a semana #4 da Next Level Week evento ministrado pela Rocketseat.
+
+## :iphone: Demo
+
+### Deploy
+
+A aplicação Web poderá ser acessada aqui: https://nlw-4-rocket.vercel.app/
+
+### :computer: Tecnologias:
+- Next.JS
+- Context API
+- Typescript
+- Vercel
+
+### :wrench: Como utilizar
+
+1. Clone esse repositório:
+```sh 
+git clone https://github.com/flubyGit/NLW4.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Entre na pasta NLW4
+```sh
+cd NLW4
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+3. Abra o projeto no seu editor de texto:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+4 No seu terminal, instale os pacotes necessários
+```sh 
+yarn install (Usando npm? Use 'npm i')
+``` 
+5. Agora você pode iniciar a aplicação
+```sh 
+yarn run dev ou npm run dev (Caso dê erro de "permission denied", use `sudo yarn start ou npm start`)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+6. Acesse o navegador com a rota especificada no console
+```sh
+  http://localhost:3000
+```
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## :mailbox_with_no_mail: Contatos
+E-mail: profissionalf.andre@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/devfandre/<br>
+Discord: ...this
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   
