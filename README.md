@@ -1,7 +1,14 @@
 <br />
 
 # Next Level Week #4 - move.it
+
+# *Web Preview*
 ![Screenshot from 2021-02-28 19-14-14](https://user-images.githubusercontent.com/49297012/109435426-305ab280-79f9-11eb-82c4-ae5ceda4d8ea.png)
+
+
+# *Mobile Preview*
+![Screenshot from 2021-02-28 19-58-36](https://user-images.githubusercontent.com/49297012/109436704-8af70d00-79ff-11eb-94e2-54418bfe3be2.png)
+
 
 ## :checkered_flag: Índice
 
